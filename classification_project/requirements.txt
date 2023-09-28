@@ -1,0 +1,10 @@
+numpy>=1.16.0
+h5py>=2.9.0
+protobuf>=3.17.0
+tensorflow-gpu>=2.0,<3.0  # If you want GPU support, otherwise use "tensorflow>=2.0,<3.0"
+opencv-python>=4.2.0  # Optional for computer vision
+scikit-learn>=0.22.0  # Optional for machine learning tasks
+nltk>=3.4.5  # Optional for NLP tasks
+spacy>=2.0.0,<3.0.0  # Optional for NLP tasks
+matplotlib>=3.0.0  # Optional for data visualization
+jupyter>=1.0.0  # Optional for Jupyter Notebooks
